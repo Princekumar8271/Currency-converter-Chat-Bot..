@@ -1,4 +1,4 @@
-# Currency-converter-Chat-Bot..
+# Currency Converter Chatbot
 
 A modern web application that combines real-time currency conversion with an AI-powered chatbot interface. The application provides both direct currency conversion and natural language processing capabilities for a more intuitive user experience.
 
